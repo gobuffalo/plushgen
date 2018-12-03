@@ -18,7 +18,7 @@ func Transformer(ctx *plush.Context) genny.Transformer {
 		}
 		s, err := plush.Render(string(b), ctx)
 		if err != nil {
-			return f, errors.WithStack(err)
+			return f, errors.Wrap(err, f.Name())
 		}
 		return genny.NewFile(f.Name(), strings.NewReader(s)), nil
 	})
