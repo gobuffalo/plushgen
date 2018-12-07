@@ -2,7 +2,6 @@ package plushgen
 
 import (
 	"io/ioutil"
-	"strings"
 
 	"github.com/gobuffalo/genny"
 	"github.com/gobuffalo/plush"
@@ -20,7 +19,7 @@ func Transformer(ctx *plush.Context) genny.Transformer {
 		if err != nil {
 			return f, errors.Wrap(err, f.Name())
 		}
-		return genny.NewFile(f.Name(), strings.NewReader(s)), nil
+		return genny.NewFileS(f.Name(), s), nil
 	})
 	t.StripExt = true
 	return t
