@@ -132,8 +132,8 @@ github.com/gobuffalo/plush v3.7.21+incompatible/go.mod h1:rQ4zdtUUyZNqULlc6bqd5s
 github.com/gobuffalo/plush v3.7.22+incompatible/go.mod h1:rQ4zdtUUyZNqULlc6bqd5scsPfLKfT0+TGMChgduDvI=
 github.com/gobuffalo/plush v3.7.23+incompatible/go.mod h1:rQ4zdtUUyZNqULlc6bqd5scsPfLKfT0+TGMChgduDvI=
 github.com/gobuffalo/plush v3.7.30+incompatible/go.mod h1:rQ4zdtUUyZNqULlc6bqd5scsPfLKfT0+TGMChgduDvI=
-github.com/gobuffalo/plush v3.7.31+incompatible h1:Ebkd0uigNk7XdlpZgUrbvgpXGAcAIYL8xgOzDOdA/bk=
-github.com/gobuffalo/plush v3.7.31+incompatible/go.mod h1:rQ4zdtUUyZNqULlc6bqd5scsPfLKfT0+TGMChgduDvI=
+github.com/gobuffalo/plush v3.7.32+incompatible h1:sxY0WMa6J1pMuomTUQ8n2TlR3otiCVZaq21gSrHLScU=
+github.com/gobuffalo/plush v3.7.32+incompatible/go.mod h1:rQ4zdtUUyZNqULlc6bqd5scsPfLKfT0+TGMChgduDvI=
 github.com/gobuffalo/plushgen v0.0.0-20181128164830-d29dcb966cb2/go.mod h1:r9QwptTFnuvSaSRjpSp4S2/4e2D3tJhARYbvEBcKSb4=
 github.com/gobuffalo/plushgen v0.0.0-20181203163832-9fc4964505c2/go.mod h1:opEdT33AA2HdrIwK1aibqnTJDVVKXC02Bar/GT1YRVs=
 github.com/gobuffalo/pop v4.8.2+incompatible/go.mod h1:DwBz3SD5SsHpTZiTubcsFWcVDpJWGsxjVjMPnkiThWg=
