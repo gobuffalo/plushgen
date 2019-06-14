@@ -5,14 +5,28 @@ github.com/gobuffalo/plushgen does not try to reinvent the wheel! Instead, it us
 Thank you to the following **GIANTS**:
 
 
+* [github.com/fatih/structs](https://godoc.org/github.com/fatih/structs)
+
 * [github.com/gobuffalo/genny](https://godoc.org/github.com/gobuffalo/genny)
 
 * [github.com/gobuffalo/helpers](https://godoc.org/github.com/gobuffalo/helpers)
 
+* [github.com/gobuffalo/packr/v2](https://godoc.org/github.com/gobuffalo/packr/v2)
+
 * [github.com/gobuffalo/plush](https://godoc.org/github.com/gobuffalo/plush)
 
-* [github.com/gobuffalo/tags](https://godoc.org/github.com/gobuffalo/tags)
+* [github.com/gobuffalo/uuid](https://godoc.org/github.com/gobuffalo/uuid)
+
+* [github.com/gobuffalo/validate](https://godoc.org/github.com/gobuffalo/validate)
+
+* [github.com/gofrs/uuid](https://godoc.org/github.com/gofrs/uuid)
+
+* [github.com/onsi/ginkgo](https://godoc.org/github.com/onsi/ginkgo)
+
+* [github.com/onsi/gomega](https://godoc.org/github.com/onsi/gomega)
 
 * [github.com/pkg/errors](https://godoc.org/github.com/pkg/errors)
+
+* [github.com/serenize/snaker](https://godoc.org/github.com/serenize/snaker)
 
 * [github.com/stretchr/testify](https://godoc.org/github.com/stretchr/testify)
